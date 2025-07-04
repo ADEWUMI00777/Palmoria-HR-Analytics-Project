@@ -89,15 +89,14 @@ This analysis enabled Palmoria Group to:
 - `README.md` – project summary (this file)  
 - `Images/` – folder for exported visuals (optional)
 
+
 ## 📁 Repository Contents
 
-- [Palmoria_HR_Dataset.xlsx](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/Palmoria_HR_Dataset.xlsx) – cleaned dataset  
-- [Palmoria_Insights_Dashboard.pbix](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/Palmoria_Insights_Dashboard.pbix) – Power BI dashboard file  
-- [bonus_rules.xlsx](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/bonus_rules.xlsx) – bonus mapping table  
-- [README.md](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/README.md) – project summary (this file)  
-- [Images/](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/tree/main/Images) – folder for exported visuals (optional)
-
-
+- [Palmoria_HR_Dataset.xlsx](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/Palmoria_HR_Dataset.xlsx) – Cleaned employee dataset  
+- [Adewumi Adeleye Palmora's Employee Analysis.pbix](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/Adewumi%20Adeleye%20Palmora%27s%20Employee%20Analysis.pbix) – Power BI dashboard file  
+- [bonus_rules.xlsx](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/bonus_rules.xlsx) – Bonus rule mapping table  
+- [README.md](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/README.md) – Project summary  
+- [Images/](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/tree/main/Images) – Folder for exported visuals (optional)
 
 
 
