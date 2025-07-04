@@ -90,13 +90,9 @@ This analysis enabled Palmoria Group to:
 - `Images/` – folder for exported visuals (optional)
 
 
-## 📁 Repository Contents (Recommended)
 
-- [Palmoria_HR_Dataset.xlsx](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/Palmoria_HR_Dataset.xlsx) – cleaned dataset  
-- [Palmoria_Insights_Dashboard.pbix](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/Palmoria_Insights_Dashboard.pbix) – Power BI dashboard file  
-- [bonus_rules.xlsx](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/bonus_rules.xlsx) – bonus mapping table  
-- [README.md](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/blob/main/README.md) – project summary (this file)  
-- [Images/](https://github.com/ADEWUMI00777/Palmoria-HR-Analytics-Project/tree/main/Images) – folder for exported visuals (optional)
+
+
 
 
 
