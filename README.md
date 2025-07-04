@@ -90,6 +90,13 @@ This analysis enabled Palmoria Group to:
 - `Images/` – folder for exported visuals (optional)
 
 ---
+## 📁 Repository Contents
+
+- `Palmoria_HR_Dataset.xlsx` – cleaned dataset  
+- `Palmoria_Insights_Dashboard.pbix` – Power BI dashboard file  
+- `bonus_rules.xlsx` – bonus mapping table  
+- `README.md` – project summary (this file)  
+- `Images/` – folder for exported visuals (optional)
 
 
 
