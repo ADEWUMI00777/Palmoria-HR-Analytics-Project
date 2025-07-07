@@ -1,5 +1,5 @@
 # 📊 HR Data Analytics Project – Gender Equality & Compensation Review at Palmoria Group
-
+##    DSA TRAINING DATA ANALYSIS PROJECT
 ## 🔍 Project Overview
 
 Palmoria Group, a manufacturing company based in Nigeria, faced public scrutiny following media accusations of gender inequality and unfair pay practices across its 3 regional branches. The CHRO tasked me, as an HR Data Analyst, with identifying and addressing potential gender-related issues to support compliance, improve transparency, and inform executive decision-making.
